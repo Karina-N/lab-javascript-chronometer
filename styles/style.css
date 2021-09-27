@@ -51,6 +51,7 @@ body {
   margin-top: -15px;
   position: absolute;
   right: 20px;
+  bottom: 60px;
 }
 
 .leash {
@@ -86,7 +87,7 @@ body {
 
 .number {
   display: inline-block;
-  width: 40px;
+  width: 30px;
 }
 
 .btn {
